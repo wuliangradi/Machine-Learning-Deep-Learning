@@ -2,7 +2,7 @@
 
 '''
 datetime: 2015-7-2 12:43
-author: Wuliang
+参考ufldl深度学习教程以及网络资源
 '''
 
 import numpy as np
